@@ -1,0 +1,15 @@
+.backgrd{
+    background-image:url(img/img1.jpg) ;
+    background-position: center;
+    background-size:cover; 
+    position: relative;
+    opacity: 0.6;
+}
+
+.head {
+    font-weight: bold;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+}
